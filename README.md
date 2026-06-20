@@ -20,7 +20,7 @@ Software Engineer based in the Netherlands, originally from Iași, Romania. I �
 |---|---|
 | [📚 Bookie](https://github.com/zandreea/book-tracker) | Book club tracker API: NestJS, Prisma, PostgreSQL, JWT auth |
 | [🎵 Music Analysis](https://github.com/zandreea/Music-Analysis) | Spotify playlist clustering with K-means, PCA and t-SNE |
-| [🎨 Digital Scrapbook](https://github.com/zandreea/digital-scrapbook) | Website wrapped in a hand-styled, collage-inspired layout, built like a scrapbook |
+| [🎨 Digital Scrapbook](https://github.com/zandreea/digital-scrapbook) | Website wrapped in a hand-styled, collage-inspired layout, built like a scrapbook — [live website](https://digital-scrapbook-blond.vercel.app/) |
 | [♟️ Chess Game](https://github.com/zandreea/chess-game) | Two-player chess in pure vanilla JS — [play it live](https://zandreea.github.io/chess-game) |
 | [🤖 Discord Bot](https://github.com/zandreea/discord-js-bot) | Discord bot with multiplayer tic-tac-toe and mastermind |
 | [🪢 Hangman](https://github.com/zandreea/hangman) | Hangman game in Python with an auto-solver using letter frequency analysis |
