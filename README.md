@@ -4,7 +4,7 @@ Software Engineer based in the Netherlands, originally from Iași, Romania. I �
 
 ## Tech
 
-**Languages** &nbsp; Dart · TypeScript · JavaScript · Python · C++
+**Languages** &nbsp; Dart · TypeScript · JavaScript · Python · Java · C++
 
 **Mobile** &nbsp; Flutter
 
